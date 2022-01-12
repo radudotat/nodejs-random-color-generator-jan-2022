@@ -5,6 +5,7 @@ import randomColor from 'random-color';
 const MIN_WIDTH = 31;
 const MIN_LINES = 9;
 const COLUMN_SIZE = 5;
+const STAMP_CHAR = '#';
 
 const args = process.argv.slice(2);
 const customChalk = new Chalk({ level: 3 });
