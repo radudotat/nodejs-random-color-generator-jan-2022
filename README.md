@@ -9,9 +9,9 @@ Generate random colors based on user input
 
 - [x] When somebody enters a specific command in the command line, a block of approximately 31x9 # characters and of a random color (using hex code, e.g. #ff0000) should be generated.
 
-[ ] It should be able to not only accept the command itself, but also the request for a:
-- hue (e.g. green or red or blue)
-- luminosity (e.g. light or dark)
+It should be able to not only accept the command itself, but also the request for a:
+- [ ] hue (e.g. green or red or blue)
+- [ ] luminosity (e.g. light or dark)
 
 ...and then generate random colors that match those choices.
 
