@@ -36,5 +36,10 @@
     "@typescript-eslint/parser": "5.9.0",
     "eslint-plugin-import": "2.25.4",
     "eslint-plugin-react": "7.28.0"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "prompts": "^2.4.2",
+    "random-color": "^1.0.1"
   }
 }
