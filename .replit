@@ -1,2 +1,0 @@
-entrypoint = "index.js"
-run = "npm start"
